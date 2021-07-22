@@ -17,14 +17,24 @@ const durationEL = document.getElementById('duration');
 const songs = [
 {
     name:'Desree',
-    displayName:'Desree',
+    displayName:'Life',
     artist:'Desree',
 },
 
 {
     name:'Tevin',
-    displayName:'Tevin',
+    displayName:'Tevin Campbell',
     artist:'Tevin',
+},
+
+{
+    name:'Sade',
+    displayName:'Your Love Is King',
+    artist:'Sade',
+
+
+
+    
 }
 ]
 
